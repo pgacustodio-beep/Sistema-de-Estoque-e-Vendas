@@ -1,2 +1,21 @@
-# Sistema-de-Estoque-e-Vendas
-Sistema de gerenciamento de estoque desenvolvido em Java com foco em organização, controle de produtos, vendas e experiência semelhante a sistemas comerciais reais utilizados em pequenas empresas e lojas.  
+# Sistema de Estoque Java
+
+Sistema desenvolvido em Java utilizando NetBeans.
+
+## Funcionalidades
+- Cadastro de produtos
+- Controle de estoque
+- Sistema de vendas
+- Login de usuários
+- Relatórios
+
+## Tecnologias
+- Java
+- Swing
+- MySQL
+
+## Objetivo
+Projeto desenvolvido para aprendizado e portfólio.
+
+## Autor
+Paulo Gabriel
